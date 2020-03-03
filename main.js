@@ -10,11 +10,11 @@ $(document).ready(function() {
 
 	//URL and name
 	var urls = [{
-		name: 'Website',
-		url: 'https://horefice.com'},
+		name: 'Web App',
+		url: 'https://mkobar.github.io/gp-angular2/'},
 	{
-		name: 'Resume',
-		url: 'https://horefice.com/docs/HOreficeResume.pdf'},
+		name: 'Demo Web App',
+		url: 'https://mkobar.github.io/gp-angular2-demo/'},
 	{
 		name: 'Blog',
 		url: 'https://blog.horefice.com'},
