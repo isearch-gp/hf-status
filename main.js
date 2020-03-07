@@ -16,11 +16,8 @@ $(document).ready(function() {
 		name: 'Demo Web App',
 		url: 'https://mkobar.github.io/gp-angular2-demo/'},
 	{
-		name: 'Blog',
-		url: 'https://blog.horefice.com'},
-	{
-		name: 'RPI',
-		url: 'https://rpi.horefice.com'
+		name: 'API GUI',
+		url: 'https://gp-api2.herokuapp.com/'
 	}];
 	$(urls).each(function(index,item){
 		$('#status .current-status').append('<li class="'+'current-status-'+item.name+'">'+item.name+'</li>')
