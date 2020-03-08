@@ -16,6 +16,12 @@ $(document).ready(function() {
 		name: 'Demo Web App',
 		url: 'https://mkobar.github.io/gp-angular2-demo/'},
 	{
+		name: 'Map proto 1',
+		url: 'http://bl.ocks.org/mkobar/bf4c85a10499e422d7f45bde5ed08d72'},
+	{
+		name: 'Map proto 2',
+		url: 'https://mkobar.github.io/angular8-d3-graph-example/'},
+	{
 		name: 'API GUI',
 		url: 'https://gp-api2.herokuapp.com/'
 	}];
